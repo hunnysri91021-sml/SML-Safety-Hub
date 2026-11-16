@@ -4,7 +4,7 @@
 
 - **SHE Patrol** — https://hunnysri91021-sml.github.io/SHE-Patrol/
 - **Work Permit** — https://hunnysri91021-sml.github.io/Safety-WorkPermit/
-- **FireCheck** — https://firecheck.pages.dev/
+- **FireCheck** — https://firecheck-845.pages.dev/
 
 หน้านี้เป็นแค่ลิงก์ ไม่มี backend/ไม่เก็บข้อมูลอะไรเอง — ทั้ง 3 ระบบยังแยกฐานข้อมูล/บัญชีผู้ใช้/การ
 deploy ของตัวเองเหมือนเดิมทุกประการ ไม่ได้ถูกรวมเป็นระบบเดียวกัน
